@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800721942616",
+    "project_id": "campusnav-fd34a",
+    "storage_bucket": "campusnav-fd34a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800721942616:android:c1d3f1e37818c96cafb22d",
+        "android_client_info": {
+          "package_name": "com.example.campus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800721942616-r8ka8fbsim6nnr0folaco3q56ah63724.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEj4GUy-lEM-3D9cX_qQeRxi5LxRfEKAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800721942616-r8ka8fbsim6nnr0folaco3q56ah63724.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
